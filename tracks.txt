@@ -7,6 +7,7 @@ ASDF_Course
 Athletic Raceway
 Aura Metropolis
 Autumn Leavesway
+Banished Keep
 Big Express City
 Big Nature City
 Boshi Skatepark
@@ -17,7 +18,6 @@ Candy Coaster
 Canyon Run
 Castle of Darkness
 Castle of Time
-Cave Island
 Celestial Ruins
 Cherry Blossom Garden
 Christmas Court
@@ -42,7 +42,6 @@ Desert Fort
 Desert Mushroom Ruins
 Desktop Dash
 DK Ruins
-DKR Star City
 Dragon Burial Grounds
 Dragonite's Island
 Dreamworld Cloudway
@@ -66,6 +65,7 @@ Flying Kingdom
 Forest Creek
 Fungal Jungle
 Garden of Dreams
+GBA Boo Lake
 GBA Bowser Castle 1
 GBA Bowser Castle 2
 GBA Bowser Castle 4
@@ -99,7 +99,6 @@ GP Mario Beach
 Halogen Highway
 Haunted Gardens
 Headlong Skyway
-Heart of China
 Hellado Mountain
 Honeybee Hideout
 Icepeak Mountain
@@ -111,6 +110,7 @@ Jungle Cliff
 Jungle Glade
 Jungle Jamble
 Jungle Ruins
+Kamek's Library
 Kartwood Creek
 Kinoko Cave
 Koopa Shell Pipeland
@@ -128,11 +128,12 @@ Mario Castle Raceway
 Medieval Castlegrounds
 Melody Sanctum
 Melting Magma Melee
-Misty Ruins
 Mushroom Island
 Mushroom Peaks
 Mushroom Valley
 Musical Cliff
+Musical Motorway
+N.I.S.W.O.E. Desert
 N64 Banshee Boardwalk
 N64 Choco Mountain
 N64 Frappe Snowland
@@ -148,7 +149,6 @@ New Moon Manor
 Nightlife Party
 Nivurbia
 Pianta Shore
-Pinewood Path
 Pipe Underworld
 Piranha Plant Pipeline
 Quaking Mad Cliffs
@@ -156,15 +156,16 @@ Rainbow Road: Solar Edition
 Rezway
 Rock Rock Ridge
 Rosalina's Snow World‎
+Royal Rainbow
 Rush City Run
 SADX Twinkle Circuit
 Sahara Hideout
 Sakura Sanctuary
+Sandstone Cliffs
 Sarasa Kingdom
 Sea Stadium
 Shy Guy's Market
 Siberian Chateau
-Sinister Vault
 Six King Labyrinth
 Sky Grove
 Sky High Island
@@ -177,7 +178,6 @@ SNES Bowser Castle 3
 SNES Choco Island 2
 SNES Donut Plains 2
 SNES Donut Plains 3
-SNES Ghost Valley 1
 SNES Koopa Beach 2
 SNES Mario Circuit 1
 SNES Mario Circuit 2
