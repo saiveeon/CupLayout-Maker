@@ -10,7 +10,6 @@ It should look something like this
 
 Then simply paste any tracks you want in the cuplayout in tracks.txt, line by line.
 They don't have to be capitalized, but they must be spelt correctly with correct grammar (apostrophes etc)
-All the tracks will be alphabetized in the cuplayout too.
 
 Here is an example of a tracks.txt file:
 
